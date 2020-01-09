@@ -2,9 +2,9 @@
 layout: home
 ---
 
-# Brief description
+# Quite Brief description
 
-Lorem ipsum etc
+Lorem ipsum etc, we will make movies great again
 
 ## And a subsection
 
