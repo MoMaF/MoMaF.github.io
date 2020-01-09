@@ -2,6 +2,12 @@
 layout: default
 ---
 
-# MoMaF
+# Brief description
+
+Lorem ipsum etc
+
+## And a subsection
+
+More lorem ipsum etc
 
 
