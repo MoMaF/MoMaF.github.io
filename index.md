@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: single
+classes:
+  - wide
 ---
 
 Welcome to the great ppage
