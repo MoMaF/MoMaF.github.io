@@ -7,6 +7,18 @@ url: https://momaf.github.io
 repository: momaf/momaf.github.io
 breadcrumbs: true
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 
 plugins:
