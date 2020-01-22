@@ -22,7 +22,7 @@ The project results in novel methodological and algorithmic improvements, result
 
 Contact:
 
-* Hannu Salmi (hansalmi@utu.fi, phone: +358407051196) University of Turku/School of History, Cultural Research and Art Studies, Consortium director
+* Hannu Salmi (hansalmi@utu.fi) University of Turku/School of History, Cultural Research and Art Studies, Consortium director
 * Filip Ginter (figint@utu.fi) University of Turku/Department of Future Technologies
 * Mikko Kurimo (mikko.kurimo@aalto.fi) Aalto University/Department of Signal Processing and Acoustics
 * Jorma Laaksonen (jorma.laaksonen@aalto.fi) Aalto University/Department of Computer Science
