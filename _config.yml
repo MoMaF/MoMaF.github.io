@@ -1,6 +1,12 @@
 remote_theme: mmistakes/minimal-mistakes
-title: "MoMaF home"
+title: "MoMaF project"
+name: "MoMaF"
 description: "The Movie Making Finland Project"
+locale: "en-GB"
+url: https://momaf.github.io
+repository: momaf/momaf.github.io
+breadcrumbs: true
+
 
 
 plugins:
