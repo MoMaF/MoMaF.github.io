@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: "MoMaF project"
 name: "MoMaF"
-description: "The Movie Making Finland Project"
+description: "Movie Making Finland: Finnish fiction films as audiovisual big data, 1907–2017 (MoMaF)"
 locale: "en-GB"
 url: https://momaf.github.io
 baseurl: ""
