@@ -4,6 +4,7 @@ name: "MoMaF"
 description: "The Movie Making Finland Project"
 locale: "en-GB"
 url: https://momaf.github.io
+baseurl: ""
 repository: momaf/momaf.github.io
 breadcrumbs: true
 logo: "/assets/images/camera_88.png"
