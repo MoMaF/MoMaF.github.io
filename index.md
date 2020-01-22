@@ -5,6 +5,8 @@ classes:
 ---
 &nbsp; 
 
+{% include figure image_path="/assets/images/wanha_leffa.jpg" alt="placeholder image" caption="" %}
+
 # About
 
 The MoMaF project concentrates on Finnish fiction films, as documented by the Finnish National Filmography, which comprise 1,545 titles in total (situation at the end of 2017). This number includes all fiction films, 1,300 titles, and long documentaries, 245 of them, that have been released in a movie theatre in Finland. Some of the films have not been preserved, but the majority of the material is available and digitised by the National Audiovisual Institute (KAVI). Therefore, there is now a unique possibility to explore Finnish society in the making through this audiovisual prism. The main title of the project, Movie Making Finland, refers to the process of ‘making’, not only to the making of films but to the making of a nation, the modernisation of Finland. Modernisation means here the transformation of the Finnish society from a rural, agrarian society into an industrial, urbanised society, and thus to a new way of life. 
