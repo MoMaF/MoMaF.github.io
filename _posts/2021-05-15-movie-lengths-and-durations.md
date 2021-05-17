@@ -2,8 +2,13 @@
 layout: posts
 title: Movie lengths and durations
 ---
-Text
+# Movie lengths and durations
 
+The difference between *length* and *duration* in the movie data is a different between things measured. Film length is the length of the actual film material, whereas duration is time it takes to show the whole film. Up to 1990, all films in the Finnish National Filmography have values for both data types; increasingly after that, only duration is marked.
+
+This change in practice does not result from the digitalization processes, but may have something to do with the prolification of different media for film distribution. The prominence of actual film decreases.
+
+The table below shows all Finnish fiction films with some sensible data for movie duration ("kesto"). Film length ("pituus") is added where present, and other information is the film name ("nimi") and year of production ("vuosi"). The data is ordered temporally.
 
  | nimi                                                                       | pituus | kesto | vuosi |
  |----------------------------------------------------------------------------+--------+-------+-------|
