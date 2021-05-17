@@ -2,8 +2,7 @@
 layout: posts
 title: Movie lengths and durations
 ---
-# Movie lengths and durations
-
+## Length and Duration
 The difference between *length* and *duration* in the movie data is a different between things measured. Film length is the length of the actual film material, whereas duration is time it takes to show the whole film. Up to 1990, all films in the Finnish National Filmography have values for both data types; increasingly after that, only duration is marked.
 
 This change in practice does not result from the digitalization processes, but may have something to do with the prolification of different media for film distribution. The prominence of actual film decreases.
