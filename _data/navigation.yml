@@ -4,4 +4,4 @@ main:
     url: "/about/"
 
   - title: "Posts"
-    url: "/posts/"
+    url: "/posts.html"
